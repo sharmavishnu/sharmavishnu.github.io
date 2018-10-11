@@ -23,7 +23,7 @@ for the JavaScript code in this file
 */
 var NAVTREE =
 [
-  [ "nanoFramework Companion Sensor Drivers", "index.html", [
+  [ "nanoFramework.Companion.Drivers.Sensors", "index.html", [
     [ "Packages", "namespaces.html", [
       [ "Packages", "namespaces.html", "namespaces_dup" ]
     ] ],

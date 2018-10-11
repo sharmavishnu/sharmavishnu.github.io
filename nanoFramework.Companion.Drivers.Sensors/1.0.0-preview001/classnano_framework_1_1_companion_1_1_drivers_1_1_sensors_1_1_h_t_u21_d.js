@@ -1,6 +1,7 @@
 var classnano_framework_1_1_companion_1_1_drivers_1_1_sensors_1_1_h_t_u21_d =
 [
     [ "HTU21D", "classnano_framework_1_1_companion_1_1_drivers_1_1_sensors_1_1_h_t_u21_d.html#a43dafa359bdd45ac477d9b82682ea129", null ],
+    [ "ApplyCalibration", "classnano_framework_1_1_companion_1_1_drivers_1_1_sensors_1_1_h_t_u21_d.html#af6b93b4a1e9f1c90735135d0965fa2b7", null ],
     [ "CanTrackChanges", "classnano_framework_1_1_companion_1_1_drivers_1_1_sensors_1_1_h_t_u21_d.html#a13b2221bec29ab24ac98ba3c6fa23a7a", null ],
     [ "DisposeSensor", "classnano_framework_1_1_companion_1_1_drivers_1_1_sensors_1_1_h_t_u21_d.html#ade524103613597a08ccf9a0e1b491651", null ],
     [ "HasSensorValueChanged", "classnano_framework_1_1_companion_1_1_drivers_1_1_sensors_1_1_h_t_u21_d.html#a669109448991810addd6acda45b88795", null ],

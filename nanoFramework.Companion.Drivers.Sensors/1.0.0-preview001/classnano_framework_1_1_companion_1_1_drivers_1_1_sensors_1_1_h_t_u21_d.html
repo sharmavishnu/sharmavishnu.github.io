@@ -5,7 +5,7 @@
 <meta http-equiv="X-UA-Compatible" content="IE=9"/>
 <meta name="generator" content="Doxygen 1.8.14"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
-<title>nanoFramework Companion Sensor Drivers: nanoFramework.Companion.Drivers.Sensors.HTU21D Class Reference</title>
+<title>nanoFramework.Companion.Drivers.Sensors: nanoFramework.Companion.Drivers.Sensors.HTU21D Class Reference</title>
 <link href="tabs.css" rel="stylesheet" type="text/css"/>
 <script type="text/javascript" src="jquery.js"></script>
 <script type="text/javascript" src="dynsections.js"></script>
@@ -30,10 +30,10 @@
  <tr style="height: 56px;">
   <td id="projectlogo"><img alt="Logo" src="nf-companion-logo-64x64.jpg"/></td>
   <td id="projectalign" style="padding-left: 0.5em;">
-   <div id="projectname">nanoFramework Companion Sensor Drivers
+   <div id="projectname">nanoFramework.Companion.Drivers.Sensors
    &#160;<span id="projectnumber">1.0.0-preview001</span>
    </div>
-   <div id="projectbrief">Sensor drivers for nanoFramework</div>
+   <div id="projectbrief">nanoFramework companion sensor drivers</div>
   </td>
  </tr>
  </tbody>
@@ -126,6 +126,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:af31dd7aec125673e0a8fd981e8ad1a69"><td class="memItemLeft" align="right" valign="top">override void&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnano_framework_1_1_companion_1_1_drivers_1_1_sensors_1_1_h_t_u21_d.html#af31dd7aec125673e0a8fd981e8ad1a69">Reset</a> ()</td></tr>
 <tr class="memdesc:af31dd7aec125673e0a8fd981e8ad1a69"><td class="mdescLeft">&#160;</td><td class="mdescRight">Reset the sensor...this performs a soft reset. To perform a hard reset, the system must be power cycled  <a href="#af31dd7aec125673e0a8fd981e8ad1a69">More...</a><br /></td></tr>
 <tr class="separator:af31dd7aec125673e0a8fd981e8ad1a69"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:af6b93b4a1e9f1c90735135d0965fa2b7"><td class="memItemLeft" align="right" valign="top">float&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnano_framework_1_1_companion_1_1_drivers_1_1_sensors_1_1_h_t_u21_d.html#af6b93b4a1e9f1c90735135d0965fa2b7">ApplyCalibration</a> (float rawLow, float rawRange, float refLow, float refRange, float measuredVal)</td></tr>
+<tr class="memdesc:af6b93b4a1e9f1c90735135d0965fa2b7"><td class="mdescLeft">&#160;</td><td class="mdescRight">Apply calibration to the measured value..using 2-point calibration method Apply calibration formula to readings...see <a href="https://learn.adafruit.com/calibrating-sensors/two-point-calibration">https://learn.adafruit.com/calibrating-sensors/two-point-calibration</a>  <a href="#af6b93b4a1e9f1c90735135d0965fa2b7">More...</a><br /></td></tr>
+<tr class="separator:af6b93b4a1e9f1c90735135d0965fa2b7"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a13b2221bec29ab24ac98ba3c6fa23a7a"><td class="memItemLeft" align="right" valign="top">override bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classnano_framework_1_1_companion_1_1_drivers_1_1_sensors_1_1_h_t_u21_d.html#a13b2221bec29ab24ac98ba3c6fa23a7a">CanTrackChanges</a> ()</td></tr>
 <tr class="memdesc:a13b2221bec29ab24ac98ba3c6fa23a7a"><td class="mdescLeft">&#160;</td><td class="mdescRight">This sensor suports change tracking  <a href="#a13b2221bec29ab24ac98ba3c6fa23a7a">More...</a><br /></td></tr>
 <tr class="separator:a13b2221bec29ab24ac98ba3c6fa23a7a"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -215,6 +218,65 @@ Properties</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
+<a id="af6b93b4a1e9f1c90735135d0965fa2b7"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#af6b93b4a1e9f1c90735135d0965fa2b7">&#9670;&nbsp;</a></span>ApplyCalibration()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">float nanoFramework.Companion.Drivers.Sensors.HTU21D.ApplyCalibration </td>
+          <td>(</td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>rawLow</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>rawRange</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>refLow</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>refRange</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">float&#160;</td>
+          <td class="paramname"><em>measuredVal</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Apply calibration to the measured value..using 2-point calibration method Apply calibration formula to readings...see <a href="https://learn.adafruit.com/calibrating-sensors/two-point-calibration">https://learn.adafruit.com/calibrating-sensors/two-point-calibration</a> </p>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">rawLow</td><td>Raw value low</td></tr>
+    <tr><td class="paramname">rawRange</td><td>Raw value range</td></tr>
+    <tr><td class="paramname">refLow</td><td>Reference low</td></tr>
+    <tr><td class="paramname">refRange</td><td>Reference range</td></tr>
+    <tr><td class="paramname">measuredVal</td><td>Value to calibrate</td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Calibrated value</dd></dl>
+
+</div>
+</div>
 <a id="a13b2221bec29ab24ac98ba3c6fa23a7a"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a13b2221bec29ab24ac98ba3c6fa23a7a">&#9670;&nbsp;</a></span>CanTrackChanges()</h2>
 
@@ -517,7 +579,7 @@ Properties</h2></td></tr>
 </div>
 </div>
 <hr/>The documentation for this class was generated from the following file:<ul>
-<li>D:/nanoFW/nf-companion/nf-companion-lib-drivers-sensors/<a class="el" href="_h_t_u21_d_8cs.html">HTU21D.cs</a></li>
+<li>nf-companion-lib-drivers-sensors/<a class="el" href="_h_t_u21_d_8cs.html">HTU21D.cs</a></li>
 </ul>
 </div><!-- contents -->
 </div><!-- doc-content -->
