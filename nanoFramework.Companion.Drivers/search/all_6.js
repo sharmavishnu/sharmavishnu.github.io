@@ -1,7 +1,0 @@
-var searchData=
-[
-  ['hassensorvaluechanged',['HasSensorValueChanged',['../classnano_framework_1_1_companion_1_1_drivers_1_1_sensors_1_1_h_t_u21_d.html#a669109448991810addd6acda45b88795',1,'nanoFramework::Companion::Drivers::Sensors::HTU21D']]],
-  ['height',['Height',['../interfacenano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_i_pixel_font.html#a43de2cef8e754de2cb48e81e6217356e',1,'nanoFramework.Companion.Drivers.Display.IPixelFont.Height()'],['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_o_l_e_d_s_s_d1306___i2_c.html#a9d992b6a94611e5da6e4605295949a43',1,'nanoFramework.Companion.Drivers.Display.OLEDSSD1306_I2C.Height()'],['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_pixel_font7_x9.html#af4005eb20f2245ba70bf77e23800f196',1,'nanoFramework.Companion.Drivers.Display.PixelFont7X9.Height()'],['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_symbols7_x9.html#a6d827283854ffa1fd98e843629877a36',1,'nanoFramework.Companion.Drivers.Display.Symbols7X9.Height()']]],
-  ['htu21d',['HTU21D',['../classnano_framework_1_1_companion_1_1_drivers_1_1_sensors_1_1_h_t_u21_d.html',1,'nanoFramework.Companion.Drivers.Sensors.HTU21D'],['../classnano_framework_1_1_companion_1_1_drivers_1_1_sensors_1_1_h_t_u21_d.html#a43dafa359bdd45ac477d9b82682ea129',1,'nanoFramework.Companion.Drivers.Sensors.HTU21D.HTU21D()']]],
-  ['htu21d_2ecs',['HTU21D.cs',['../_h_t_u21_d_8cs.html',1,'']]]
-];
