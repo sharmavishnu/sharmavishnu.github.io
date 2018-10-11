@@ -42,6 +42,4 @@ var menudata={children:[
 {text:"s",url:"functions.html#index_s"},
 {text:"w",url:"functions.html#index_w"}]},
 {text:"Functions",url:"functions_func.html"},
-{text:"Properties",url:"functions_prop.html"}]}]},
-{text:"Files",url:"files.html",children:[
-{text:"File List",url:"files.html"}]}]}
+{text:"Properties",url:"functions_prop.html"}]}]}]}

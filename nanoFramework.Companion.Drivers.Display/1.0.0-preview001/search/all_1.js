@@ -1,5 +1,8 @@
 var searchData=
 [
-  ['charmap',['CharMap',['../interfacenano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_i_pixel_font.html#acb10121a08be1bd7d6db9a0f793db9e4',1,'nanoFramework.Companion.Drivers.Display.IPixelFont.CharMap()'],['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_pixel_font7_x9.html#a4f76d4faf0479c3ec1f87f670d25d3dd',1,'nanoFramework.Companion.Drivers.Display.PixelFont7X9.CharMap()'],['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_symbols7_x9.html#af2688f3311c73197d6f2da595e1e9dec',1,'nanoFramework.Companion.Drivers.Display.Symbols7X9.CharMap()']]],
-  ['clearscreen',['ClearScreen',['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_o_l_e_d_s_s_d1306___i2_c.html#a625fd32d5b1bb92eb6933c8f574f930b',1,'nanoFramework::Companion::Drivers::Display::OLEDSSD1306_I2C']]]
+  ['disposeactuator',['DisposeActuator',['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_o_l_e_d_s_s_d1306___i2_c.html#aa5e54eadd344196c8fb5219c44e54972',1,'nanoFramework::Companion::Drivers::Display::OLEDSSD1306_I2C']]],
+  ['drawchar',['DrawChar',['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_o_l_e_d_s_s_d1306___i2_c.html#a5a9b5cf19bab93579d38286af21a02cb',1,'nanoFramework::Companion::Drivers::Display::OLEDSSD1306_I2C']]],
+  ['drawline',['DrawLine',['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_o_l_e_d_s_s_d1306___i2_c.html#afcafd4f6f718d2bc036cd19560bc46ca',1,'nanoFramework::Companion::Drivers::Display::OLEDSSD1306_I2C']]],
+  ['drawrectangle',['DrawRectangle',['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_o_l_e_d_s_s_d1306___i2_c.html#a717714c32ecf58416c6ea8a5e4824e0f',1,'nanoFramework::Companion::Drivers::Display::OLEDSSD1306_I2C']]],
+  ['drawtext',['DrawText',['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_o_l_e_d_s_s_d1306___i2_c.html#a269caef83a1e8e2d5b932cd6a681480d',1,'nanoFramework::Companion::Drivers::Display::OLEDSSD1306_I2C']]]
 ];

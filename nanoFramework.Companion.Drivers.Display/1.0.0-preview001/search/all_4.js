@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['height',['Height',['../interfacenano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_i_pixel_font.html#a43de2cef8e754de2cb48e81e6217356e',1,'nanoFramework.Companion.Drivers.Display.IPixelFont.Height()'],['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_o_l_e_d_s_s_d1306___i2_c.html#a9d992b6a94611e5da6e4605295949a43',1,'nanoFramework.Companion.Drivers.Display.OLEDSSD1306_I2C.Height()'],['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_pixel_font7_x9.html#af4005eb20f2245ba70bf77e23800f196',1,'nanoFramework.Companion.Drivers.Display.PixelFont7X9.Height()'],['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_symbols7_x9.html#a6d827283854ffa1fd98e843629877a36',1,'nanoFramework.Companion.Drivers.Display.Symbols7X9.Height()']]]
+  ['initialize',['Initialize',['../classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_o_l_e_d_s_s_d1306___i2_c.html#a892ecadb85edbdeff87dcdb559fc91cf',1,'nanoFramework::Companion::Drivers::Display::OLEDSSD1306_I2C']]],
+  ['ipixelfont',['IPixelFont',['../interfacenano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_i_pixel_font.html',1,'nanoFramework::Companion::Drivers::Display']]]
 ];

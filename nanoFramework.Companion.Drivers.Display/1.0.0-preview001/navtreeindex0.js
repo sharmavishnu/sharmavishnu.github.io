@@ -1,10 +1,5 @@
 var NAVTREEINDEX0 =
 {
-"_assembly_info_8cs.html":[2,0,0,0,0],
-"_i_pixel_font_8cs.html":[2,0,0,1],
-"_o_l_e_d_s_s_d1306___i2_c_8cs.html":[2,0,0,2],
-"_pixel_font7_x9_8cs.html":[2,0,0,3],
-"_symbols7_x9_8cs.html":[2,0,0,4],
 "annotated.html":[1,0],
 "classes.html":[1,1],
 "classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_o_l_e_d_s_s_d1306___i2_c.html":[1,0,0,0,0,0,1],
@@ -38,9 +33,6 @@ var NAVTREEINDEX0 =
 "classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_symbols7_x9.html#a49768bf3de254ad7afadec6a6eee8c88":[1,0,0,0,0,0,3,2],
 "classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_symbols7_x9.html#a6d827283854ffa1fd98e843629877a36":[1,0,0,0,0,0,3,1],
 "classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_symbols7_x9.html#af2688f3311c73197d6f2da595e1e9dec":[1,0,0,0,0,0,3,0],
-"dir_09105163bbc5be03a6fbeb9e0b45c7f9.html":[2,0,0,0],
-"dir_294de236d52095b1fe36b5b69b8b3016.html":[2,0,0],
-"files.html":[2,0],
 "functions.html":[1,3,0],
 "functions_func.html":[1,3,1],
 "functions_prop.html":[1,3,2],
@@ -50,14 +42,14 @@ var NAVTREEINDEX0 =
 "interfacenano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_i_pixel_font.html#a31a74314b27c02f16e2b4746874dc439":[1,0,0,0,0,0,0,2],
 "interfacenano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_i_pixel_font.html#a43de2cef8e754de2cb48e81e6217356e":[1,0,0,0,0,0,0,1],
 "interfacenano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_i_pixel_font.html#acb10121a08be1bd7d6db9a0f793db9e4":[1,0,0,0,0,0,0,0],
-"namespacenano_framework.html":[0,0,0],
 "namespacenano_framework.html":[1,0,0],
-"namespacenano_framework_1_1_companion.html":[0,0,0,0],
+"namespacenano_framework.html":[0,0,0],
 "namespacenano_framework_1_1_companion.html":[1,0,0,0],
+"namespacenano_framework_1_1_companion.html":[0,0,0,0],
 "namespacenano_framework_1_1_companion_1_1_drivers.html":[1,0,0,0,0],
 "namespacenano_framework_1_1_companion_1_1_drivers.html":[0,0,0,0,0],
-"namespacenano_framework_1_1_companion_1_1_drivers_1_1_display.html":[0,0,0,0,0,0],
 "namespacenano_framework_1_1_companion_1_1_drivers_1_1_display.html":[1,0,0,0,0,0],
+"namespacenano_framework_1_1_companion_1_1_drivers_1_1_display.html":[0,0,0,0,0,0],
 "namespaces.html":[0,0],
 "pages.html":[]
 };
