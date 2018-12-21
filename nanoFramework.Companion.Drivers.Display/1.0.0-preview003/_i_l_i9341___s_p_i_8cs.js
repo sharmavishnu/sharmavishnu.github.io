@@ -1,0 +1,45 @@
+var _i_l_i9341___s_p_i_8cs =
+[
+    [ "ILI9341_SPI", "classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_i_l_i9341___s_p_i.html", "classnano_framework_1_1_companion_1_1_drivers_1_1_display_1_1_i_l_i9341___s_p_i" ],
+    [ "ILI9341Commands", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20", [
+      [ "Nop", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20ab7e7f2b46723f5b08d763041108f8fed", null ],
+      [ "SoftwareReset", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20ad1d43f321d5a6d263a887e033e3e1145", null ],
+      [ "SleepMode", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20ac68cd8d6c860c5f6475c5a97782e0893", null ],
+      [ "SleepOut", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a73537c90a8239f83f3ebb75a7a445876", null ],
+      [ "NormalDisplayMode", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20aec2598b292bb222df71530512de01833", null ],
+      [ "DisplayInversionOff", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20af7f0a1d5e44fbe4ea215d9b0f39ab8e2", null ],
+      [ "DisplayInversionOn", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20abd5cb30a973169d6dca07baabee24438", null ],
+      [ "DisplayOff", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a3341d5262f7fe5e0e6f1bd817ac6267f", null ],
+      [ "DisplayOn", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a1c08b564ef5b56408fe442a1e269a656", null ],
+      [ "ColumnAddressSet", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a2065d35cf56bf017e1259617c0bac22d", null ],
+      [ "PageAddressSet", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a97b529c69f77b25997eae5d283c2bf53", null ],
+      [ "MemoryWrite", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a5e932342aab40efaef1a503864403168", null ],
+      [ "ColorSet", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a709152233b06572aee345db6ce63a41b", null ],
+      [ "PixelFormatSet", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20abb2c89cd1642698306a2dc51579d5ae3", null ],
+      [ "MemoryAccessControl", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20af1b84b761976251e9647e343d1283220", null ],
+      [ "WriteDisplayBrightness", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20aab9ac920fec971da019c7232d8a2ba93", null ],
+      [ "ReadDisplayBrightness", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a6cfd7ccb7453094e6aee4712d0f1af5d", null ],
+      [ "PowerControlA", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a9a82efa2c851a25d8720a8513a0cd4e4", null ],
+      [ "PowerControlB", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20abac24b6d500656040c476d1c1f7400dc", null ],
+      [ "TimingControlA", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a30300f0bf98df1da8045692a503fda70", null ],
+      [ "TimingControlB", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a5c63a5e428280658775d44997b7ebcaf", null ],
+      [ "PowerOnSequenceControl", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20aa801f9a623adf2757ab157cdb5ebf75f", null ],
+      [ "PumpRatioControl", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20ac1b290dddee527a6451408ce8d8347d4", null ],
+      [ "PowerControl1", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20ac6e21beb585add8f4d23e649809d399a", null ],
+      [ "PowerControl2", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a633828ca482e94f4f1565a90b16b1c29", null ],
+      [ "VComControl1", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20ab6e0b44698738239741a92e1fa1f07aa", null ],
+      [ "VComControl2", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a813752daae649acb0470823ec85a5985", null ],
+      [ "FrameRateControl", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20adf3fa16e233ec8eb6cebe35c9b7dba1e", null ],
+      [ "DisplayFunctionControl", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20a83a8c4e0bc33eeeaa405f13012f131ec", null ],
+      [ "Enable3G", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20afd65c189fe1018fb0fe0790e657c460e", null ],
+      [ "EnableGammaSet", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20ae46e4efae73fd18784f90a33bd988182", null ],
+      [ "PositiveGammaCorrection", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20aae25f70ac9550c4f08f44d8a8fa608bb", null ],
+      [ "NegativeGammaCorrection", "_i_l_i9341___s_p_i_8cs.html#a5d5d3b8f0260d25fee804833d99f0a20ad6c9bb2f6bf7062d5d73e14b881d8948", null ]
+    ] ],
+    [ "ILI9341Rotations", "_i_l_i9341___s_p_i_8cs.html#a78d92921226c6148f3385854cb3a98d2", [
+      [ "ZeroDegrees", "_i_l_i9341___s_p_i_8cs.html#a78d92921226c6148f3385854cb3a98d2ad833129a5b64e628b3f6bb6a1e6bfde2", null ],
+      [ "NinetyDegrees", "_i_l_i9341___s_p_i_8cs.html#a78d92921226c6148f3385854cb3a98d2a79b28ee2ed343782a5b9557702161aa4", null ],
+      [ "OneEightyDegrees", "_i_l_i9341___s_p_i_8cs.html#a78d92921226c6148f3385854cb3a98d2ab80aeb0f721a24dc85a16ec78e5eb468", null ],
+      [ "TwoSeventyDegrees", "_i_l_i9341___s_p_i_8cs.html#a78d92921226c6148f3385854cb3a98d2a7df285505613d7e5f5ce74f918032d48", null ]
+    ] ]
+];
